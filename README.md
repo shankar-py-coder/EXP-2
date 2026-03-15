@@ -50,7 +50,8 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 <img src="https://github.com/shankar-py-coder/EXP-2/blob/main/exp%202%201st.jpeg?raw=true" height="500" width="700">
-
+<img src="https://github.com/shankar-py-coder/EXP-2/blob/main/exp%202%202nd.jpeg?raw=true" height="500" width="700">
+<img src="
 Model graph:
 
 <img src="https://github.com/shankar-py-coder/EXP-2/blob/main/exp%202%204th.jpeg?raw=true" height="400" width="700">
