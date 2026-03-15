@@ -49,7 +49,7 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-Tabulation for Load Test:
+<img src="https://github.com/shankar-py-coder/EXP-2/blob/main/exp%202%201st.jpeg?raw=true" height="500" width="700">
 
 Model graph:
 
