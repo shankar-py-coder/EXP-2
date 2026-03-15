@@ -52,8 +52,9 @@ Tabulation for Open Circuit Test
 Tabulation for Load Test:
 
 Model graph:
- 
 
+<img src="https://github.com/shankar-py-coder/EXP-2/blob/main/exp%202%204th.jpeg?raw=true" height="400" width="700">
+ 
 Open circuit characteristics:
 
 <img src="https://github.com/shankar-py-coder/EXP-2/blob/main/Screenshot%202026-03-15%20192047.png?raw=true" height="400" width="700">
